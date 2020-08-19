@@ -3,7 +3,7 @@
   "main": "./src/main.js",
   "version": "1.0.0",
   "description": "Detect bugs and quality issues in JavaScript, TypeScript, React and Vue.js more precisely",
-  "repository": "https://github.com/deepscan/atom-deepscan.git",
+  "repository": "https://github.com/deepscan/publish-test-atom-deepscan.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
